@@ -11,6 +11,7 @@
 
  <img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/1a1cdde7-81ce-4052-85a9-fae128397d9e" />
 
+* **Live Application:** [Live App](https://housing-price-prediction-app.streamlit.app/)
 
 ---
 
